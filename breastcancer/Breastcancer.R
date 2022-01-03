@@ -94,8 +94,8 @@ set.seed(218)                           ## fix random value
 index <- sample(1:nrows, 0.7 * nrows)   ## shuffle and divide
 
 #train <- wbcd                          ## 569 test data (100%)
-train <- wbcd[index,]                   ## 398 test data (70%)
-test <- wbcd[-index,]                   ## 171 test data (30%)
+train <- wbcd[index,]                   ## 398 test data (0.7)
+test <- wbcd[-index,]                   ## 171 test data (0.3)
 
 prop.table(table(train$diagnosis))
 library(caret)
