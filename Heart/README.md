@@ -19,13 +19,18 @@ https://github.com/hoyajhl/R_analysis/blob/main/Heart/eda_visualization.R
 ## Modeling (On going)
 
 -Simple model 
+
 -Regression model
+
 -Penalized Regression
+
 -Advanced model (bagging, boosting)
 
 
 ## Evaluation (On going)
 
 -Feature Importance 
+
 -Model Comparison
+
 -Plotting AUC 
