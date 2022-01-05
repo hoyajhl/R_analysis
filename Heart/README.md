@@ -31,7 +31,7 @@ https://github.com/hoyajhl/R_analysis/blob/main/Heart/Eda_Visualization.R
     -Boosting based model
 
 -Survival analysis
-    
+    file:///Users/jaehohoyalee/Downloads/survivalanalysis1%20(1).html
     -KM
     
     -Cox proportional Hazard
