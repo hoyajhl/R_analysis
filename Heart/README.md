@@ -24,8 +24,17 @@ https://github.com/hoyajhl/R_analysis/blob/main/Heart/Eda_Visualization.R
 
 -Penalized Regression
 
--Advanced model (bagging, boosting)
+-Advanced model 
+    
+    -Bagging
+    
+    -Boosting based model
 
+-Survival analysis
+    
+    -KM
+    
+    -Cox proportional Hazard
 
 ## Evaluation (On going)
 
