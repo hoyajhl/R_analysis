@@ -1,4 +1,8 @@
 # R_analysis
+## Table contents
+  * [EDA / Data visualization](#eda---data-visualization)
+  * [Modeling (On going)](#modeling--on-going-)
+  * [Evaluation (On going)](#evaluation--on-going-)
 ## EDA / Data visualization
 
 #### *EDA
