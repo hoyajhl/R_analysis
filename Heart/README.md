@@ -14,7 +14,7 @@
 -Correlation Heatmap
 
 -Using ggplot: 
-https://github.com/hoyajhl/R_analysis/blob/main/Heart/eda_visualization.R
+https://github.com/hoyajhl/R_analysis/blob/main/Heart/Eda_Visualization.R
 
 ## Modeling (On going)
 
